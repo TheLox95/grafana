@@ -2,9 +2,9 @@ import defaultTheme from './default';
 import { GrafanaTheme, GrafanaThemeType } from '../types/theme';
 
 const basicColors = {
-  black: '#773cbe',
-  white: '#ed070f',
-  dark1: '#1e2028',
+  black: '#000000',
+  white: '#ffffff',
+  dark1: '#773cbe',
   dark2: '#41444b',
   dark3: '#303133', // not used in light theme
   dark4: '#35373f', // not used in light theme
